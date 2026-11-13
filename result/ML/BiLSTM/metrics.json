@@ -1,0 +1,10 @@
+{
+  "model": "BiLSTM",
+  "samples": 30440,
+  "accuracy": 0.9172470433639948,
+  "macro_precision": 0.9088345456491443,
+  "macro_recall": 0.899099020513079,
+  "macro_specificity": 0.9941030642663866,
+  "macro_f1": 0.901934667883505,
+  "per_class_accuracy_definition": "one-vs-rest: (TP + TN) / N"
+}

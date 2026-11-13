@@ -1,0 +1,10 @@
+{
+  "model": "AttentionCapsNet",
+  "samples": 30440,
+  "accuracy": 0.9113009198423128,
+  "macro_precision": 0.9006558649030795,
+  "macro_recall": 0.8919623041922776,
+  "macro_specificity": 0.9936780610645258,
+  "macro_f1": 0.8950523848508027,
+  "per_class_accuracy_definition": "one-vs-rest: (TP + TN) / N"
+}

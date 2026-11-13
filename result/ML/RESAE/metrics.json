@@ -1,0 +1,10 @@
+{
+  "model": "RESAE",
+  "samples": 30440,
+  "accuracy": 0.913173455978975,
+  "macro_precision": 0.9006088410734262,
+  "macro_recall": 0.8941371098590778,
+  "macro_specificity": 0.9938146367333413,
+  "macro_f1": 0.8951345601743549,
+  "per_class_accuracy_definition": "one-vs-rest: (TP + TN) / N"
+}

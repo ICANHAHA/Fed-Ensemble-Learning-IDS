@@ -1,0 +1,13 @@
+{
+  "model": "Proposed",
+  "samples": 30440,
+  "accuracy": 0.9187910643889619,
+  "macro_precision": 0.9081210117176007,
+  "macro_recall": 0.9007441741055207,
+  "macro_specificity": 0.9942107007828397,
+  "macro_f1": 0.9037435031841479,
+  "per_class_accuracy_definition": "one-vs-rest: (TP + TN) / N",
+  "loss": 0.2108236720342478,
+  "best_round": 48,
+  "best_val_macro_f1": 0.9084988442039097
+}
