@@ -242,7 +242,6 @@ class FlowerClient(fl.client.NumPyClient):
             "accuracy": metrics["accuracy"],
             "epoch_history": json.dumps(epoch_history),
         }
-
     def evaluate(self, parameters, config):
         set_parameters(self.model, parameters)
         metrics, _, _ = evaluate_classifier(
